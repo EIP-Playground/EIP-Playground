@@ -210,7 +210,7 @@
 
 ```bash
 git clone https://github.com/EIP-Playground/EIP-Playground.git
-cd web3-eip-playground
+cd EIP-Playground
 ```
 
 #### 2. 启动前端
