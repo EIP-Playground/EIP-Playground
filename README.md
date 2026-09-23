@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/David-0x221Eight/web3-eip-playground/main/docs/assets/logo.png" alt="EIP Playground Logo" width="200" />
+  <img src="https://raw.githubusercontent.com/EIP-Playground/EIP-Playground/main/docs/assets/logo.png" alt="EIP Playground Logo" width="200" />
 </p>
 
 <h1 align="center">EIP Playground</h1>
@@ -209,7 +209,7 @@
 #### 1. 克隆仓库
 
 ```bash
-git clone https://github.com/David-0x221Eight/web3-eip-playground.git
+git clone https://github.com/EIP-Playground/EIP-Playground.git
 cd web3-eip-playground
 ```
 
@@ -413,7 +413,7 @@ AI 导师 & 后端<br/>
   </strong>
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/David-0x221Eight/web3-eip-playground/main/docs/assets/runner-up.png" alt="Dr. Panda won the runner-up" width="300" />
+  <img src="https://raw.githubusercontent.com/EIP-Playground/EIP-Playground/main/docs/assets/runner-up.png" alt="Dr. Panda won the runner-up" width="300" />
 </p>
 
 ## 致谢
